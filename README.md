@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# About Me:
+I am Currently completing a Diploma in Full Stack Development at Mission Ready. I am Gaining hands-on experience with modern web technologies including JavaScript, React, Node.js, and databases. <br>I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
