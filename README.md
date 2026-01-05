@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm currently completing a Diploma in Full Stack Development at Mission Ready. I am Gaining hands-on experience by creating modern full stack applications.<br><br>I’m especially interested in exploring how AI can be integrated into web applications to enhance user experiences and automation.<br><br>When I’m not coding, you’ll probably find me surfing, fishing, or experimenting with 3D printing designs.</p>
+<p align="left">I have recently completed a Diploma in Full Stack Development at Mission Ready. I am Gaining hands-on experience by creating modern full stack applications.<br><br>I’m especially interested in exploring how AI can be integrated into web applications to enhance user experiences and automation.<br><br>When I’m not coding, you’ll probably find me surfing, fishing, or experimenting with 3D printing designs.</p>
 
 ###
 
