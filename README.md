@@ -10,7 +10,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/andy-guffey-256603143/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.boot.dev/u/ag" target="_blank">
+    <img src="https://img.shields.io/badge/Boot.dev-Profile-EB4934?style=for-the-badge&logo=codecademy&logoColor=white" height="25" alt="boot.dev profile" />
   </a>
 </div>
 
