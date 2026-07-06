@@ -4,7 +4,21 @@
 
 ###
 
-<p align="left">I have recently completed a Diploma in Full Stack Development at Mission Ready. I am Gaining hands-on experience by creating modern full stack applications.<br><br>I’m especially interested in exploring how AI can be integrated into web applications to enhance user experiences and automation.<br><br>When I’m not coding, you’ll probably find me surfing, fishing, or experimenting with 3D printing designs.</p>
+<p align="left">
+Full Stack Developer with a business background — I bridge complex operational 
+workflows with modern technical solutions.
+
+- Full Stack Development Diploma @ Mission Ready
+- Currently studying a Postgraduate Diploma in AI Product Engineering 
+  (AI-Ready Impact Scholarship recipient)
+- Background in large-scale process coordination (Fonterra, MFAT) before 
+  transitioning into tech
+- Currently working on RAG systems, agentic AI, and vector databases
+- Recent project: migrated a mortgage services platform from a legacy 
+  no-code environment to a custom **Next.js / Supabase (PostgreSQL) / 
+  Tailwind CSS** stack
+- Interested in building scalable, intelligent applications that solve 
+  real operational problems</p>
 
 ###
 
