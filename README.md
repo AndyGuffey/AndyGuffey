@@ -24,10 +24,11 @@ workflows with modern technical solutions.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/andy-guffey-256603143/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
+  &nbsp;
   <a href="https://www.boot.dev/u/ag" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Boot.dev-Profile-EB4934?style=for-the-badge&logo=smartthings&logoColor=white" height="25" alt="boot.dev profile" />
+    <img src="https://img.shields.io/static/v1?message=Boot.dev&logo=bootstrap&label=&color=6366F1&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="boot.dev profile" />
   </a>
 </div>
 
